@@ -1,0 +1,44 @@
+.jumbotron-content {
+    padding: 90px 30px 20px 30px;
+    background-color: #000000;
+    color: #000000;
+}
+
+.body{
+    background-color: rgb(66, 16, 16)
+
+}
+
+.row-middle{
+    background-color:rgb(186,6,6);
+    color: black;
+    padding-bottom: 40px;
+
+}
+
+.row-content{
+    border-bottom: 4px grey;
+    padding-bottom: 5px;
+    color: whitesmoke;
+}
+
+.navbar-inverse {
+    background: rgb(186, 6, 6);
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar.inverse .nav-nav > .active > a:hover,
+.navbar.inverse .nav-nav > .active > a:focus {
+    color: rgb(234, 235, 225);
+    background: rgb(186, 6, 6);
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: rgb(234, 235, 225);
+    background: rgb(186, 6, 6);
+}
+.clearfix {
+    overflow:auto;
+}
